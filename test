@@ -1,7 +1,7 @@
-const companies = [
+
     { "id": 1, "title": "TechCorp" },
     { "id": 2, "title": "HealthPlus" },
     { "id": 3, "title": "EcoGreen" },
     { "id": 4, "title": "Foodies" },
     { "id": 5, "title": "FinTech Solutions" }
-];
+
